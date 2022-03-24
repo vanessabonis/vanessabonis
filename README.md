@@ -6,16 +6,13 @@ I'm a brazilian full-stack developer
 - 📫 How to reach me: vanessa1302@gmail.com
 - 😄 Pronouns: she/her
 
-<div style="display: inline_block">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessabonis&show_icons=true&theme=radical&repo=github-readme-stats)" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessabonis&show_icons=true&theme=radical&layout=compact" />
+<div>
+  <a href="https://www.linkedin.com/in/bonifaciovanessa/">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
-##
+#
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <div style="display: inline_block">
@@ -36,10 +33,18 @@ I'm a brazilian full-stack developer
   <img align="center" width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
 </div>
 
-##
-
-<div>
-  <a href="https://www.linkedin.com/in/bonifaciovanessa/">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<div style="display: inline_block">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessabonis&show_icons=true&theme=radical&repo=github-readme-stats)" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessabonis&show_icons=true&theme=radical&layout=compact" />
   </a>
 </div>
+
+#
+
+
+##
+
+
