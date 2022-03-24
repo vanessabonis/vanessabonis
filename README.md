@@ -6,7 +6,7 @@ I'm a brazilian full-stack developer
 - 📫 How to reach me: vanessa1302@gmail.com
 - 😄 Pronouns: she/her
 
-<div>
+<div style="display: inline_block">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessabonis&show_icons=true&theme=radical&repo=github-readme-stats)" />
   </a>
