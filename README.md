@@ -2,7 +2,8 @@
 
 I'm a brazilian full-stack developer
 
-- 🔭 I’m currently working with Java (SpringBoot) and VueJS
+- 🔭 I’m currently working with Java (SpringBoot) (backend), VueJS (frontend), MySQL (db)
+- 📕 In my spare time I study nodejs 
 - 📫 How to reach me: vanessa1302@gmail.com
 - 😄 Pronouns: she/her
 
