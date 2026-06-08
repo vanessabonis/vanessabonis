@@ -2,9 +2,11 @@
 
 I'm a brazilian full-stack developer
 
-- 🔭 I’m currently working with Java | Springboot | VueJS 
-- 📕 In my spare time I study nodejs 
-- 📫 How to reach me: vanessa1302@gmail.com
+- 🔭 Backend Software Engineer | Java | Spring Boot | Quarkus | Microservices
+- ☁️ AWS | Kubernetes (EKS) | Kafka | Distributed Systems | Observability
+- 💳 Experience building mission-critical systems in Fintech and Healthcare
+- 📕 Currently learning Kotlin
+- 📫 Reach me at: vanessa1302@gmail.com
 - 😄 Pronouns: she/her
 
 <div>
